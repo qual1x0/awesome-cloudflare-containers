@@ -20,7 +20,7 @@ A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.
 
 - [Cloudflare Containers landing page](https://containers.cloudflare.com/): Landing page for the Open Beta launch event
 - [Containers Documentation](https://developers.cloudflare.com/containers/): Official documentation for Cloudflare Containers
-- [Containers Beta Info](https://developers.cloudflare.com/beta-info/): Information about the Open Beta program
+- [Containers Beta Info & Roadmap](https://developers.cloudflare.com/containers/beta-info/): Information about the Open Beta program & its roadmap
 - [@cloudflare/containers](https://www.npmjs.com/package/@cloudflare/containers): npm package for interacting with Containers on Cloudflare Workers
 - [Basic Workers Container Template](https://github.com/cloudflare/templates/tree/main/containers-template): A basic Containers template for usage with `npm create cloudflare@latest`
 - [Static frontend, Container backend template](https://github.com/mikenomitch/static-frontend-container-backend): A static frontend  with a Containers backend template for usage with `npm create cloudflare@latest`
