@@ -6,6 +6,7 @@ A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.
 - [Resources](#resources)
 - [Tools](#tools)
 - [Contribute](#contribute)
+- [Code of Conduct](#code-of-conduct)
 
 ## Projects build with Cloudflare Containers
 
@@ -31,3 +32,7 @@ A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.
 ## Contribute
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first before opening a PR. Thank you very much!
+
+## Code of Conduct
+
+Please also review the [Code of Conduct](CODE_OF_CONDUCT.md) for this repository.
