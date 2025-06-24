@@ -1,4 +1,4 @@
-# awesome-cloudflare-containers
+# Awesome Cloudflare Containers
 A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.com) projects, resources, blog posts and tools.
 
 ## Contents
