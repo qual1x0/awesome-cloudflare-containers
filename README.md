@@ -12,6 +12,9 @@ A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.
 
 - [Cloudflare DuckLake](https://github.com/tobilg/cloudflare-ducklake): Running [DuckLake](https://ducklake.select/) on top of [DuckDB](https://duckdb.org) behind a Hono-based API
 - [Cloudflare DuckDB](https://github.com/tobilg/cloudflare-ducklake): Running [DuckDB](https://duckdb.org) behind a Hono-based API
+- [Claude Code on Cloudflare](https://github.com/ghostwriternr/claude-code-containers): An environment for Claude Code to process GitHub issues
+- [wifski](https://github.com/megaconfidence/wifski/): Create high-quality GIFs from your videos on the web
+- [Sandboxing Day Containers](https://github.com/craigsdennis/sandboxing-day-containers): Use Cloudflare Containers to execute sandboxed code
 
 ## Resources
 
