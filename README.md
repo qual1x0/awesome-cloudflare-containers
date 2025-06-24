@@ -22,7 +22,6 @@ A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.
 - [Containers Documentation](https://developers.cloudflare.com/containers/): Official documentation for Cloudflare Containers
 - [Containers Beta Info & Roadmap](https://developers.cloudflare.com/containers/beta-info/): Information about the Open Beta program & its roadmap
 - [Containers Instance Types & Limits](https://developers.cloudflare.com/containers/platform-details/): Description of the different instance types & the platform limits
-- [Containers Deployment Info](https://developers.cloudflare.com/workers/configuration/versions-and-deployments/): Information about how Container versions, deployments and rollbacks work
 - [@cloudflare/containers](https://www.npmjs.com/package/@cloudflare/containers): npm package for interacting with Containers on Cloudflare Workers
 - [Official Containers Demos](https://github.com/cloudflare/containers-demos): Repo with the official Cloudflare Container Demos
 - [Basic Workers Container Template](https://github.com/cloudflare/templates/tree/main/containers-template): A basic Containers template for usage with `npm create cloudflare@latest`
